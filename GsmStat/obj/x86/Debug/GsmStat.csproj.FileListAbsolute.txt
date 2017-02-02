@@ -1,0 +1,242 @@
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\bin\Debug\GsmStat.exe.config
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\bin\Debug\GsmStat.exe
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\bin\Debug\GsmStat.pdb
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\obj\x86\Debug\GsmStat.Properties.Resources.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\obj\x86\Debug\GsmStat.AZSPARAMSView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\obj\x86\Debug\GsmStat.OPERATORSView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\obj\x86\Debug\GsmStat.TIDELOGView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\obj\x86\Debug\GsmStat.exe.licenses
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\obj\x86\Debug\GsmStat.exe
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\obj\x86\Debug\GsmStat.pdb
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\obj\x86\Debug\GsmStat.CARSView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\obj\x86\Debug\GsmStat.KMAZSView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\obj\x86\Debug\GsmStat.TANKCONFIGView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\obj\x86\Debug\GsmStat.GSMTYPEView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\obj\x86\Debug\GsmStat.TANKHISTORYView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\bin\Debug\RapidInterface_v01.dll
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\bin\Debug\RapidInterface_v01.pdb
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\obj\x86\Debug\GsmStat.UploadReport.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\obj\x86\Debug\GsmStat.GSMReport.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\obj\x86\Debug\GsmStat.GSMReportx.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\obj\x86\Debug\GsmStat.MainForm.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\obj\x86\Debug\Interop.Domino.dll
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\obj\x86\Debug\GsmStat.csproj.ResolveComReference.cache
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\obj\x86\Debug\GsmStat.LotusView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\bin\Debug\app.config
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\obj\x86\Debug\GsmStat.csprojResolveAssemblyReference.cache
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\obj\x86\Debug\GsmStat.csproj.GenerateResource.Cache
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\obj\x86\Debug\GsmStat.TestView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\GsmStat\GsmStat\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+D:\_Projects\GsmStat\GsmStat\obj\x86\Debug\GsmStat.MainForm.resources
+D:\_Projects\GsmStat\GsmStat\obj\x86\Debug\GsmStat.Properties.Resources.resources
+D:\_Projects\GsmStat\GsmStat\obj\x86\Debug\GsmStat.GSMReportx.resources
+D:\_Projects\GsmStat\GsmStat\obj\x86\Debug\GsmStat.AZSPARAMSView.resources
+D:\_Projects\GsmStat\GsmStat\obj\x86\Debug\GsmStat.CARSView.resources
+D:\_Projects\GsmStat\GsmStat\obj\x86\Debug\GsmStat.GSMTYPEView.resources
+D:\_Projects\GsmStat\GsmStat\obj\x86\Debug\GsmStat.KMAZSView.resources
+D:\_Projects\GsmStat\GsmStat\obj\x86\Debug\GsmStat.LotusView.resources
+D:\_Projects\GsmStat\GsmStat\obj\x86\Debug\GsmStat.OPERATORSView.resources
+D:\_Projects\GsmStat\GsmStat\obj\x86\Debug\GsmStat.TANKCONFIGView.resources
+D:\_Projects\GsmStat\GsmStat\obj\x86\Debug\GsmStat.TANKHISTORYView.resources
+D:\_Projects\GsmStat\GsmStat\obj\x86\Debug\GsmStat.TIDELOGView.resources
+D:\_Projects\GsmStat\GsmStat\obj\x86\Debug\GsmStat.UploadReport.resources
+D:\_Projects\GsmStat\GsmStat\obj\x86\Debug\GsmStat.GSMReport.resources
+D:\_Projects\GsmStat\GsmStat\obj\x86\Debug\GsmStat.TestView.resources
+D:\_Projects\GsmStat\GsmStat\obj\x86\Debug\GsmStat.csproj.GenerateResource.Cache
+D:\_Projects\GsmStat\GsmStat\bin\Debug\GsmStat.exe.config
+D:\_Projects\GsmStat\GsmStat\obj\x86\Debug\GsmStat.csprojResolveAssemblyReference.cache
+D:\_Projects\GsmStat\GsmStat\bin\Debug\app.config
+D:\_Projects\GsmStat\GsmStat\bin\Debug\GsmStat.exe
+D:\_Projects\GsmStat\GsmStat\bin\Debug\GsmStat.pdb
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.CodeParser.v15.2.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Data.v15.2.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Docs.v15.2.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Office.v15.2.Core.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Utils.v15.2.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Xpo.v15.2.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraBars.v15.2.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraCharts.v15.2.Extensions.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraReports.v15.2.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\RapidInterface.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Snap.v15.2.Core.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Spreadsheet.v15.2.Core.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraGauges.v15.2.Core.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.DataAccess.v15.2.UI.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.DataAccess.v15.2.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\Usable.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Data.v15.2.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Docs.v15.2.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Office.v15.2.Core.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Utils.v15.2.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Xpo.v15.2.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraBars.v15.2.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraReports.v15.2.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+D:\_Projects\GsmStat\GsmStat\bin\Debug\RapidInterface.pdb
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Snap.v15.2.Core.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Spreadsheet.v15.2.Core.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\DevExpress.DataAccess.v15.2.xml
+D:\_Projects\GsmStat\GsmStat\bin\Debug\Usable.pdb
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.Snap.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.Snap.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.Snap.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.Snap.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.Spreadsheet.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.Spreadsheet.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.Spreadsheet.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.Spreadsheet.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+D:\_Projects\GsmStat\GsmStat\obj\x86\Debug\GsmStat.exe
+D:\_Projects\GsmStat\GsmStat\obj\x86\Debug\GsmStat.pdb
+D:\_Projects\GsmStat\GsmStat\obj\x86\Debug\GsmStat.exe.licenses

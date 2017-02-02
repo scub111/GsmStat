@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GsmStat.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LotusPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">12345</Value>
+    </Setting>
+    <Setting Name="LotusServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RUnotes/РУ/АОНК</Value>
+    </Setting>
+    <Setting Name="LotusDatabase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mail\biskubkn.nsf</Value>
+    </Setting>
+    <Setting Name="LotusSendTo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Дышлюк А.Н./РУ/АОНК</Value>
+    </Setting>
+    <Setting Name="LotusCopyTo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Бискуб К.Н./РУ/АОНК</Value>
+    </Setting>
+    <Setting Name="LotusSubject" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Отдел АСУ. Рассылка автоматических отчетов.</Value>
+    </Setting>
+    <Setting Name="LotusDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">d:\Работа\Кайерканский\!МТБ\Отчеты\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

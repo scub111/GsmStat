@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5D4890EC-929D-4DBC-8F64-B3F8FB02A1BC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GsmStat</RootNamespace>
+    <AssemblyName>GsmStat</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>5181448-eco-pump-icon-in-green-tones_128_128_2.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.CodeParser.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v14.2.Core, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Docs.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v14.2.Core, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v14.2.Core, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v14.2.Core, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v14.2.Wizard, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v14.2.Extensions, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v14.2.Core, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v14.2.Core, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v14.2.UI, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v14.2.Extensions, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraTreeList.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="FirebirdSql.Data.FirebirdClient, Version=4.6.1.0, Culture=neutral, PublicKeyToken=3750abcc3150b00c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\FirebirdSql.Data.FirebirdClient.4.6.1.0\lib\net40-client\FirebirdSql.Data.FirebirdClient.dll</HintPath>
+    </Reference>
+    <Reference Include="RapidInterface_v01, Version=1.0.0.3, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\RapidInterface_v01\RapidInterface_v01\bin\Debug\RapidInterface_v01.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DBClass.cs" />
+    <Compile Include="PersistentClasses1.cs" />
+    <Compile Include="Reports\GSMReportx.cs" />
+    <Compile Include="Reports\GSMReportx.Designer.cs">
+      <DependentUpon>GSMReportx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AZSPARAMSView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\AZSPARAMSView.Designer.cs">
+      <DependentUpon>AZSPARAMSView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TIDELOGView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\TIDELOGView.Designer.cs">
+      <DependentUpon>TIDELOGView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\OPERATORSView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\OPERATORSView.Designer.cs">
+      <DependentUpon>OPERATORSView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\CARSView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\CARSView.Designer.cs">
+      <DependentUpon>CARSView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\KMAZSView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\KMAZSView.Designer.cs">
+      <DependentUpon>KMAZSView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TANKCONFIGView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\TANKCONFIGView.Designer.cs">
+      <DependentUpon>TANKCONFIGView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GSMTYPEView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\GSMTYPEView.Designer.cs">
+      <DependentUpon>GSMTYPEView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TANKHISTORYView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\TANKHISTORYView.Designer.cs">
+      <DependentUpon>TANKHISTORYView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UploadReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\UploadReport.Designer.cs">
+      <DependentUpon>UploadReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GSMReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\GSMReport.Designer.cs">
+      <DependentUpon>GSMReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\LotusView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\LotusView.Designer.cs">
+      <DependentUpon>LotusView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TestView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\TestView.Designer.cs">
+      <DependentUpon>TestView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_DBInterfaceViewForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="_DBInterfaceViewForm.Designer.cs">
+      <DependentUpon>_DBInterfaceViewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs" />
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reports\GSMReportx.resx">
+      <DependentUpon>GSMReportx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\AZSPARAMSView.resx">
+      <DependentUpon>AZSPARAMSView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\CARSView.resx">
+      <DependentUpon>CARSView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GSMTYPEView.resx">
+      <DependentUpon>GSMTYPEView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\KMAZSView.resx">
+      <DependentUpon>KMAZSView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\LotusView.resx">
+      <DependentUpon>LotusView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\OPERATORSView.resx">
+      <DependentUpon>OPERATORSView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\TANKCONFIGView.resx">
+      <DependentUpon>TANKCONFIGView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\TANKHISTORYView.resx">
+      <DependentUpon>TANKHISTORYView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\TIDELOGView.resx">
+      <DependentUpon>TIDELOGView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UploadReport.resx">
+      <DependentUpon>UploadReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GSMReport.resx">
+      <DependentUpon>GSMReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\TestView.resx">
+      <DependentUpon>TestView.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="5181448-eco-pump-icon-in-green-tones_128_128_2.ico" />
+    <Content Include="Program.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
